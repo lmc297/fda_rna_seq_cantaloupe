@@ -1,3 +1,5 @@
+#!/bin/bash
+
 # Loop through each raw fastq.gz file
 for f in ./raw_reads/*.fastq.gz
 do
